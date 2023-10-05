@@ -4,3 +4,18 @@
 *{
     font-family: 'Work Sans', sans-serif;
 }
+header{
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 7vw;
+}
+nav ul{
+    display: flex;
+    gap: 5vw;
+}
+nav ul > li {
+    list-style: none;
+}
